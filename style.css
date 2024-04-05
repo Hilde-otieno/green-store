@@ -198,3 +198,227 @@ display: flex;
     height: 40px;
     width: 200px;
 }
+@media all and (min-width:350px) and (max-width: 1024px){
+#container{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(214, 205, 193);
+ }
+ #navbar{
+     display: flex;
+     gap: 5%;
+     width: 100%;
+     height: 20px;
+     font-size: xx-small;
+     background-color: rgb(44, 96, 44);
+ }
+ #like{
+     height: 10px;
+     width: 10px;
+     display: flex;
+     gap: 150%;
+ }
+ #collect{
+     display: flex;
+     gap: 5%;
+ }
+ #summer{
+     background-image: url("images/image38.webp");
+     width: 60%;
+     height: 100px;
+     -webkit-text-fill-color: aliceblue;
+     font-size: xx-small;
+ }
+ #flower{
+     width: 100px;
+     height: 100px;
+ }
+ #price{
+ -webkit-text-fill-color: rgb(28, 209, 28);
+ font-size: xx-small;
+ }
+ #inspo{
+ display: block;
+ }
+ #inspiration{
+ display: block;
+ font-size: xx-small;
+ }
+ #poration{
+ display: flex;
+ }
+ #sale{
+     background-image: url("images/flower.jpg");
+     height: 150px;
+     width: 150px;
+     border-radius: 5px;
+     font-size: xx-small;
+ }
+ #house{
+     background-image: url("images/flower2.jpg");
+     height: 150px;
+     width: 200px;
+     border-radius: 5px;
+     font-size: xx-small;
+ }
+ #potted{
+     background-image: url("images/image39.avif");
+     width: 200px;
+     height: 150px;
+     object-fit: cover;
+     border-radius: 5px;
+     font-size: xx-small;
+ }
+ #whole{
+     display: flex;
+     gap: 5%;
+     font-size: xx-small;
+ }
+ #navbar1{
+     display: flex;
+     gap: 2%;
+     border-radius: 15px;
+     font-size: xx-small;
+ }
+ #grow{
+     display: flex;
+ }
+ #all{
+     text-align: center;
+     gap: 10%;
+ }
+ #popcorn{
+     background-color: rgb(37, 154, 37);
+     width: 80px;
+     height: 30px;
+     font-size: xx-small;
+     border-radius: 7px;
+ }
+ #auctor{
+     display: flex;
+     gap: 5%;
+     font-size: xx-small;
+ }
+ #gravida{
+     display: block;
+     gap: 10%;
+ }
+ #sem{
+     display: flex;
+     gap: 5%;
+     font-size: xx-small;
+ }
+ #gra{
+     display: flex;
+ }
+ #dri{
+     width: 150px;
+     height: 150px;
+ }
+ #drift{
+     text-align: center;
+ }
+ #com{
+     width: 60px;
+     height: 60px;
+ }
+ #all{
+     display: flex;
+ }
+ #feature{
+     text-align: center;
+     font-size: xx-small;
+ }
+ #tree{
+     display: flex;
+     gap: 1%;
+     margin-left: 0px;
+     font-size: xx-small;
+ }
+ #bottle{
+     width: 300px;
+     height: 200px;
+ }
+ #living{
+     background-image: url("images/flower3.jpg");
+     width:350px;
+     height: 200px;
+     text-align: center;
+     font-size: xx-small;
+ }
+ #collection{
+      display: block;
+      margin-left: 0px;
+      gap: 2%;
+      font-size: xx-small;
+ }
+ #fun{
+      display: flex;
+      font-size: xx-small;
+ }
+ #flo{
+     width: 20px;
+     height: 20px;
+ }
+ #cab{
+     display: flex;
+     font-size: xx-small;
+ }
+ #alli{
+     display: flex;
+ }
+ #only{
+     width: 190px;
+     height: 200px;
+ }
+ #cactus{
+     display: flex;
+     gap: 2%;
+     font-size: xx-small;
+ }
+ #blo{
+     display: block;
+     font-size: xx-small;
+ }
+ #we{
+     text-align: center;
+     font-size: xx-small;
+ }
+ #arrow{
+     height: 10px;
+     width: 10px;
+ }
+ #late{
+    font-size: x-small;
+    text-align: center;
+ }
+ #love{
+     margin-left: 100px;
+     display: flex;
+     gap: 10%;
+ }
+ #ash{
+     -webkit-text-fill-color: rgb(180, 172, 172);
+     width: 100px;
+     height: 40px;
+ }
+ #media{
+     height: 10px;
+     width: 10px;
+ }
+ #footer{
+     display: flex;
+     gap: 10%;
+     font-size: xx-small;
+ }
+ #social{
+     gap: 10%;
+     display: flex;
+ }
+ #sha{
+     background-color: rgb(35, 169, 35);
+     -webkit-text-fill-color: black;
+     height: 40px;
+     width: 100px;
+ }
+}
