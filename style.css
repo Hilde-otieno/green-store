@@ -1,0 +1,200 @@
+#container{
+   width: 1620px;
+   height: 6500px;
+   background-color: rgb(214, 205, 193);
+}
+#navbar{
+    display: flex;
+    gap: 10%;
+    width: 1620px;
+    height: 60px;
+    background-color: rgb(44, 96, 44);
+}
+#like{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    gap: 150%;
+}
+#collect{
+    display: flex;
+    gap: 5%;
+}
+#summer{
+    background-image: url("images/image38.webp");
+    width: 900px;
+    height: 600px;
+    -webkit-text-fill-color: aliceblue;
+    font-size: xx-large;
+}
+#flower{
+    width: 200px;
+    height: 200px;
+}
+#price{
+-webkit-text-fill-color: rgb(28, 209, 28);
+}
+#inspo{
+display: block;
+}
+#inspiration{
+display: block;
+}
+#poration{
+display: flex;
+}
+#sale{
+    background-image: url("images/flower.jpg");
+    height: 450px;
+    width: 450px;
+    border-radius: 50px;
+}
+#house{
+    background-image: url("images/flower2.jpg");
+    height: 500px;
+    width: 500px;
+    border-radius: 50px;
+}
+#potted{
+    background-image: url("images/image39.avif");
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 50px;
+}
+#whole{
+    display: flex;
+    gap: 5%;
+}
+#navbar1{
+    display: flex;
+    gap: 8%;
+    border-radius: 15px;
+}
+#grow{
+    display: flex;
+}
+#all{
+    text-align: center;
+    gap: 10%;
+}
+#popcorn{
+    background-color: rgb(37, 154, 37);
+    width: 130px;
+    height: 30px;
+    border-radius: 7px;
+}
+#auctor{
+    display: flex;
+    gap: 10%;
+}
+#gravida{
+    display: block;
+    gap: 10%;
+}
+#sem{
+    display: flex;
+    gap: 5%;
+}
+#gra{
+    display: flex;
+}
+#dri{
+    width: 700px;
+    height: 600px;
+}
+#drift{
+    text-align: center;
+}
+#com{
+    width: 200px;
+    height: 200px;
+}
+#all{
+    display: flex;
+}
+#feature{
+    text-align: center;
+}
+#tree{
+    display: flex;
+    gap: 10%;
+    margin-left: 100px;
+}
+#bottle{
+    width: 900px;
+    height: 700px;
+    object-fit: cover;
+}
+#living{
+    background-image: url("images/flower3.jpg");
+    width: 1600px;
+    height: 500px;
+    text-align: center;
+    font-size: xx-large;
+}
+#collection{
+     display: block;
+     margin-left: 50px;
+     gap: 5%;
+}
+#fun{
+     display: flex;
+}
+#flo{
+    width: 200px;
+    height: 200px;
+}
+#cab{
+    display: flex;
+}
+#alli{
+    display: flex;
+}
+#only{
+    width: 1000px;
+    height: 600px;
+}
+#cactus{
+    display: flex;
+    gap: 4%;
+}
+#blo{
+    display: flex;
+    gap: 5%;
+}
+#we{
+    text-align: center;
+}
+#arrow{
+    height: 100px;
+    width: 100px;
+}
+#love{
+    margin-left: 200px;
+    display: flex;
+    gap: 10%;
+}
+#ash{
+    -webkit-text-fill-color: rgb(180, 172, 172);
+    width: 200px;
+    height: 40px;
+}
+#media{
+    height: 50px;
+    width: 50px;
+}
+#footer{
+    display: flex;
+    gap: 30%;
+}
+#social{
+    gap: 10%;
+    display: flex;
+}
+#sha{
+    background-color: rgb(35, 169, 35);
+    -webkit-text-fill-color: black;
+    height: 40px;
+    width: 200px;
+}
